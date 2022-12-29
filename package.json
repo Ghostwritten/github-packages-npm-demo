@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ghostwritten/github-packages-npm-demo/issues"
   },
+  "publishConfig": {
+   "@ghostwritten:registry": "https://npm.pkg.github.com"
+ },
   "homepage": "https://github.com/Ghostwritten/github-packages-npm-demo#readme"
 }
